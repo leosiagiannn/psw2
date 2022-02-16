@@ -3,7 +3,7 @@ Ecommerce UMKM is my final project for course Web Development II.
 
 Panduan Instalasi :
 
-Spesifikasi:
+Spesifikasi :
 -PHP 7++
 -Apache 2.4++
 
