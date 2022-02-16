@@ -16,7 +16,7 @@ Install:
 Informasi Akun:
 Admin :
 - Username : admin
-- password : admin
+- Password : admin
 Member :
 - Username : leonardo
-- password : leonardo
+- Password : leonardo
